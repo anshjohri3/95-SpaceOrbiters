@@ -2,10 +2,10 @@
 
 *TO know how to run the code please go bottom of this page* 
 
-##Inspiration:
+### Inspiration:
 The inspiration behind SpaceOrbiters comes from a deep-rooted fascination with the cosmos and a desire to make space exploration more accessible and engaging in todays era. Recognizing the vast potential of technology in revolutionizing our understanding of the universe, we aimed to create a fully dynamic and comprehensive platform that not only serves as an educational resource but also a community hub for space enthusiasts and technophiles.
 
-##What it does:
+### What it does:
 Space Orbiters is an innovative platform that brings the universe to users' fingertips.The key features include:
 
 Community Chat: A MERN stack-based chat application for like-minded space enthusiasts to connect and share ideas.
@@ -26,15 +26,15 @@ Celestial Bodies Database: Detailed insights into various celestial bodies and t
 
 Image Gallery: A collection of awe-inspiring space images from NASA's API.
 
-##How we built it:
+### How we built it:
 SpaceOrbiters was built using a blend of modern technologies and APIs. The MERN stack (Python, Numpy, Matplotlib, MongoDB, Express.js, React, Node.js, Three.js) forms the backbone of our web application, ensuring a seamless and responsive user experience. Integration with NASA's APIs allows us to fetch real-time, high-quality space data. The custom GPT, built using GPTBuilder and GPT-4, adds a unique interactive and informative dimension to the platform.
 
-##Challenges we ran into:
+### Challenges we ran into:
 1.Finding and integrating correct and up-to-date API's.
 2.Developing a custom GPT model to accurately respond to space-related queries.
 3.Creating an engaging and user-friendly interface that accommodates a diverse range of features.
 
-##Accomplishments that we're proud of:
+### Accomplishments that we're proud of:
 1.Successfully integrating NASA's API to provide dynamic space content.
 2.Building a robust chat application that fosters community engagement.
 3.Developing a custom GPT model tailored for space-related inquiries.
@@ -42,7 +42,7 @@ SpaceOrbiters was built using a blend of modern technologies and APIs. The MERN 
 
 Compatibility: The web application of SpaceOrbiters is tested on windows till yet.
 
-##What's next for SpaceOrbiter:
+### What's next for SpaceOrbiter:
 1.Machine Learning: Utilizing ML algorithms for predictive analysis and pattern recognition in space research.
 
 2.AR/VR Integration: Introducing augmented and virtual reality features to provide an immersive educational experience in space exploration.
@@ -50,7 +50,7 @@ Compatibility: The web application of SpaceOrbiters is tested on windows till ye
 3.Community Growth and Engagement: Further developing community features to foster collaboration and learning among space enthusiasts.
 
 
-##"Instructions how to run the Code"
+### "Instructions how to run the Code"
 
 1- Download and Extract Repository:
 Download the GitHub repository to your PC or laptop.
