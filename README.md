@@ -42,7 +42,7 @@ SpaceOrbiters was built using a blend of modern technologies and APIs. The MERN 
 
 Compatibility: The web application of SpaceOrbiters is tested on windows till yet.
 
-### What's next for SpaceOrbiter:
+### What's next for SpaceOrbiters:
 1.Machine Learning: Utilizing ML algorithms for predictive analysis and pattern recognition in space research.
 
 2.AR/VR Integration: Introducing augmented and virtual reality features to provide an immersive educational experience in space exploration.
